@@ -1,5 +1,7 @@
-## Put comments here that give an overall description of what your
-## functions do
+## This file contains 2 functions makeCacheMatrix() and cacheSolve()
+## The overall functionality of these files is to cache and return the value of a Matrix, create 
+## it's inverse and to cache and return the value of the inverse. The individual functions are 
+## documented in line
 
 ## makeCacheMatrix takes a matrix as an argument. It defines 4 "sub" functions to "set" the matrix, 
 ## get the matrix, set the inverse and get the inverse
